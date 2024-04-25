@@ -5,28 +5,28 @@
 ## ความรู้พื้นฐานของ Computer Science
 
 - [x] รู้จักกับ HTTP
-- [ ] การทํางานเบื้องต้นของระบบ Internet
-- [ ] DNS / Domain name และ Client - Server Model
-- [ ] การทํางานของ Web Browser
-- [ ] ความรู้พื้นฐาน Computer Network
-- [ ] ความรู้พื้นฐานเรื่อง Algorithm และ Data Structures
-- [ ] พื้นฐานความเข้าใจ ด้านระบบปฏิบัติการ
+- [x] การทํางานเบื้องต้นของระบบ Internet
+- [x] DNS / Domain name และ Client - Server Model
+- [x] การทํางานของ Web Browser
+- [x] ความรู้พื้นฐาน Computer Network
+- [x] ความรู้พื้นฐานเรื่อง Algorithm และ Data Structures
+- [x] พื้นฐานความเข้าใจ ด้านระบบปฏิบัติการ
 
 ## HTML/CSS
 
-- [ ] HTML พื้นฐาน
-- [ ] CSS พื้นฐาน
-- [ ] จัดการ Layouts ของ CSS Grid, Flexbox
-- [ ] การจัดการกับฟอร์ม และ Validation
+- [x] HTML พื้นฐาน
+- [x] CSS พื้นฐาน
+- [x] จัดการ Layouts ของ CSS Grid, Flexbox
+- [x] การจัดการกับฟอร์ม และ Validation
 - [ ] Responsive Design และ Media Querie
 - [ ] ความรู้พื้นฐานด้าน Search Engine Optimization
 - [ ] ES6+ และ จัดการกับ Document Object Model (DOM)
 
 ## JavaScript
 
-- [ ] JavaScript พื้นฐาน
+- [x] JavaScript พื้นฐาน
 - [ ] AJAX, Fetch API และ Axios
-- [ ] JSON/XML
+- [x] JSON/XML
 
 ## Front-End JavaScript Libraries/ Frameworks
 
@@ -40,7 +40,7 @@
 ## Version Control
 
 - [ ] Git
-- [ ] GitHub
+- [x] GitHub
 - [ ] GitLab
 
 ## การทำงานกับ API
@@ -67,13 +67,13 @@
 - [ ] CSS Architecture (BEM)
 - [ ] CSS Architecture (OOCSS)
 - [ ] CSS Preprocessor (SASS / SCSS)
-- [/] Tailwind
-- [/] Bootstrap
+- [x] Tailwind
+- [x] Bootstrap
 
 ## การออกแบบการเข้าถึงและประสบการณ์การใช้งาน
 
 - [ ] WAI-ARIA principles
-- [ ] พื้นฐานการออกแบบ UX UI
+- [x] พื้นฐานการออกแบบ UX UI
 - [ ] i18n and l10n
 
 ## PERFORMANCE/SECURITY
